@@ -1,0 +1,12 @@
+#This is a virtual python env.
+#main dir is ~/Projects/virtualenv
+#1. create dir
+#python -m pip install virtualenv
+#virtualenv --version # to verify
+#to create the env type
+#virtualenv <name>
+#cd into folder then into bin
+#run . /folder/bin/activate
+#to exite type deactivate
+#use this command to list all the pip pkgs as of 9/29/20
+#python -m pip freeze > pip_require_file.txt
